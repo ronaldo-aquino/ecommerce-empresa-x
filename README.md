@@ -46,3 +46,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://github.com/ronaldo-aquino
 
 [![Logo do Python](./img/python.png)](https://github.com/ronaldo-aquino)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
