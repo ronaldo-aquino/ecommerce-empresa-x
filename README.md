@@ -1,4 +1,7 @@
-# Ecommerce-empresa-x
-Este é um ecommerce para a empresa x feito com php e myql.
+# E-commer empresa x
 
-# Teste
+Vamos criar um e-commerce para a empresa X e blalbalbla
+
+## Funcionalidades:
+
+Checkout, Tela de produto, Catálago, Home com banner
