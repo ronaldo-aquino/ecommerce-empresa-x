@@ -40,3 +40,7 @@ __Melhoria 1__, _melhoria 2_
 ## Links interesantes:
 
 [Google](https://www.google.com.br)
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://githubcom/ronaldo-aquino
